@@ -1,6 +1,6 @@
 import React from 'react';
 import Table from './components/Table';
-import{ mockData } from './mockData';
+import{ mockData } from './assets/mockData';
 
 const columns = [
   { key: 'id', label: 'ID' },
